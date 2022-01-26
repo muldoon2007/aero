@@ -1,0 +1,3 @@
+# Definition
+
+Reciprocal of viscosity.

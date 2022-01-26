@@ -1,0 +1,3 @@
+# Definition
+
+Reduction in intensity.

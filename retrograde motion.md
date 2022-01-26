@@ -1,0 +1,7 @@
+# Definition
+
+1.  Motion in an orbit opposite to the usual orbital direction of
+    celestial bodies within a given system. Specifically, of a
+    satellite, motion in a direction opposite to the direction of
+    rotation of the primary. 2. The apparent motion of a planet westward
+    among the stars. Also called retrogression.

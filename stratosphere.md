@@ -1,0 +1,3 @@
+# Definition
+
+See atmospheric shell.

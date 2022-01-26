@@ -1,0 +1,3 @@
+# Definition
+
+Variant of hydyne.

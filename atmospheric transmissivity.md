@@ -1,0 +1,3 @@
+# Definition
+
+See transmission coefficient.

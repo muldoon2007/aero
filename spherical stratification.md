@@ -1,0 +1,3 @@
+# Definition
+
+See horizontal stratification.

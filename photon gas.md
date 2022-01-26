@@ -1,0 +1,3 @@
+# Definition
+
+A radiation field.
