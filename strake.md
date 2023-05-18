@@ -1,0 +1,2 @@
+- # Definition
+- On a vessel's hull, a strake is a longitudinal course of planking or plating which runs from the boat's stempost (at the bows) to the sternpost or transom (at the rear).
