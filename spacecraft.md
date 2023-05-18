@@ -1,9 +1,9 @@
 - # Definition #card #space101
-  card-last-interval:: 4
-  card-repeats:: 1
-  card-ease-factor:: 2.6
-  card-next-schedule:: 2022-02-01T23:47:45.685Z
-  card-last-reviewed:: 2022-01-28T23:47:45.685Z
+  card-last-interval:: 84.1
+  card-repeats:: 5
+  card-ease-factor:: 2.76
+  card-next-schedule:: 2023-05-24T21:29:12.916Z
+  card-last-reviewed:: 2023-03-01T19:29:12.917Z
   card-last-score:: 5
 	- Devices, manned and unmanned, which are designed to be placed into an
 	  orbit about the earth or into a trajectory to another celestial body.
