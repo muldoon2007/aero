@@ -1,4 +1,10 @@
 # Definition
+card-last-interval:: -1
+card-repeats:: 1
+card-ease-factor:: 2.5
+card-next-schedule:: 2024-05-02T07:00:00.000Z
+card-last-reviewed:: 2024-05-01T16:37:59.567Z
+card-last-score:: 1
 
 An instrument developed by John Aitken for determining the dust content
 of the atmosphere. In operation, a sample of air is mixed, in an

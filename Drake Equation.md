@@ -1,12 +1,4 @@
-# Description <span class="tag" tag-name="fc"><span class="smallcaps">fc</span></span>
-
-<div class="REVIEW_DATA drawer">
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.65 | 4   | 14.43    | 2021-03-09T08:26:13Z |
-
-</div>
+# Description #space101 #card
 
 The Drake equation is a probabilistic argument used to estimate the
 number of active, communicative extraterrestrial civilizations in the

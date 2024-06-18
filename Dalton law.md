@@ -1,4 +1,4 @@
-# Definition
+# Definition #space101 #card
 
 The empirical generalization that for many so-called perfect gases, a
 mixture of these gases will have a pressure equal to the sum of the

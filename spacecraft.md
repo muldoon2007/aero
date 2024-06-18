@@ -1,10 +1,10 @@
-- # Definition #card #space101
-  card-last-interval:: 84.1
-  card-repeats:: 5
-  card-ease-factor:: 2.76
-  card-next-schedule:: 2023-05-24T21:29:12.916Z
-  card-last-reviewed:: 2023-03-01T19:29:12.917Z
-  card-last-score:: 5
+# Definition #card #space101
+card-last-interval:: 939.61
+card-repeats:: 7
+card-ease-factor:: 2.96
+card-next-schedule:: 2026-10-29T05:34:58.859Z
+card-last-reviewed:: 2024-04-02T15:34:58.860Z
+card-last-score:: 5
 	- Devices, manned and unmanned, which are designed to be placed into an
 	  orbit about the earth or into a trajectory to another celestial body.
 	  From 1957 through 1962 spacecraft were designated by the year and a

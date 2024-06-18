@@ -1,8 +1,8 @@
-# Definition
+# Definition #space101 #card
 
 An oval feature in the visible cloud surface of Jupiter, at latitude 20
-to 25 degrees S. It is about 25,000 miles long in the planet's east-west
-direction, and about 7000 miles wide in the north-south direction. It is
+to 25 degrees S. It is about {{cloze 25,000}} miles long in the planet's east-west
+direction, and about {{cloze 7,000}} miles wide in the north-south direction. It is
 often reddish in color, but may be white or grey, or nearly invisible
 compared to its surroundings. See South Tropical Disturbance. The
 neighboring cloud matter seems to pass around it on the northern side,

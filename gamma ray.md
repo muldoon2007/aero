@@ -1,4 +1,10 @@
-# Definition
+# Definition #card 
+card-last-interval:: 188.48
+card-repeats:: 6
+card-ease-factor:: 2.62
+card-next-schedule:: 2024-08-12T08:59:37.560Z
+card-last-reviewed:: 2024-02-05T21:59:37.560Z
+card-last-score:: 3
 
 A quantum of electromagnetic radiation emitted by a nucleus, each such
 photon being emitted as the result of a quantum transition between two
@@ -13,6 +19,7 @@ penetration ranges than do alpha and beta particles, often amounting to
 distances of the order of a hundred meters in air at sea level. These
 high-energy photons may initiate their ionizing action by ejecting
 photoelectrons from neutral atoms or molecules of the air, by ejecting
-electrons by the Compton effect, or (for gamma photons with energies
+electrons by the [[Compton effect]] , or (for gamma photons with energies
 above a few million electron volts) by pair production in which an
 electron and a positron are created.
+-

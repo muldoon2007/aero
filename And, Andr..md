@@ -1,12 +1,10 @@
-# Definition <span class="tag" tag-name="fc"><span class="smallcaps">fc</span></span> <span class="tag" tag-name="edm"><span class="smallcaps">edm</span></span>
-
-<div class="REVIEW_DATA drawer">
-
-| position | ease | box | interval | due                  |
-|----------|------|-----|----------|----------------------|
-| front    | 2.50 | 2   | 1.00     | 2021-08-06T18:23:54Z |
-
-</div>
+# Definition #card
+card-last-interval:: 3.52
+card-repeats:: 1
+card-ease-factor:: 2.36
+card-next-schedule:: 2024-05-04T04:01:03.976Z
+card-last-reviewed:: 2024-04-30T16:01:03.977Z
+card-last-score:: 3
 
 International Astronomical Union abbreviations for Andromeda . See
-constellation.
+[[constellation]] .

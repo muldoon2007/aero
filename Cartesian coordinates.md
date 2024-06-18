@@ -1,4 +1,4 @@
-# Definition
+# Definition #space101 #card
 
 A coordinate system in which the locations of points in space are
 expressed by reference to three planes, called coordinate planes, no two

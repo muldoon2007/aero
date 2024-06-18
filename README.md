@@ -1,3 +1,0 @@
-# aero
-
-Aerospace knowledge base.
