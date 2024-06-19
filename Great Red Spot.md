@@ -1,4 +1,10 @@
 # Definition #space101 #card
+card-last-interval:: 3.77
+card-repeats:: 1
+card-ease-factor:: 2.6
+card-next-schedule:: 2024-06-22T18:37:57.218Z
+card-last-reviewed:: 2024-06-19T00:37:57.218Z
+card-last-score:: 5
 
 An oval feature in the visible cloud surface of Jupiter, at latitude 20
 to 25 degrees S. It is about {{cloze 25,000}} miles long in the planet's east-west

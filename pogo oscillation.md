@@ -1,0 +1,3 @@
+- # Definition
+- **Pogo oscillation** is a self-excited vibration in liquid-propellant rocket engines caused by combustion instability. The unstable combustion results in variations of engine thrust, causing variations of acceleration on the vehicle's flexible structure, which in turn cause variations in propellant pressure and flow rate, 
+  closing the self-excitation cycle. The name is a metaphor comparing the [longitudinal](https://en.wikipedia.org/wiki/Flight_control_surfaces#Longitudinal_axis) vibration to the bouncing of a pogo stick. Pogo oscillation places stress on the frame of the vehicle, which in severe cases can be dangerous.

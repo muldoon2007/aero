@@ -1,12 +1,12 @@
 # Definition #card
-card-last-interval:: 3.52
-card-repeats:: 1
-card-ease-factor:: 2.36
-card-next-schedule:: 2024-05-05T04:32:15.614Z
-card-last-reviewed:: 2024-05-01T16:32:15.615Z
-card-last-score:: 3
+card-last-score:: 5
+card-repeats:: 2
+card-next-schedule:: 2024-06-23T00:47:40.435Z
+card-last-interval:: 4
+card-ease-factor:: 2.46
+card-last-reviewed:: 2024-06-19T00:47:40.435Z
 
-The number of molecules in 1 mole of gas ( 6.02252 X 1023 per mole).
+The number of molecules in 1 mole of gas ( 6.02252 * 10^23 per mole).
 That this number is a constant for permanent gases is the Avogadro law:
 under normal conditions, i.e., pressure of 1 standard atmosphere and
 temperature of 0° C, the volume occupied by 1 mole of gas is the same

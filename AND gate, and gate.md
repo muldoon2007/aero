@@ -1,9 +1,9 @@
 # Definition #card
-card-last-interval:: 3.77
-card-repeats:: 1
-card-ease-factor:: 2.6
-card-next-schedule:: 2024-05-05T10:35:21.515Z
-card-last-reviewed:: 2024-05-01T16:35:21.515Z
+card-last-interval:: 3.84
+card-repeats:: 2
+card-ease-factor:: 2.7
+card-next-schedule:: 2024-06-22T20:47:58.234Z
+card-last-reviewed:: 2024-06-19T00:47:58.235Z
 card-last-score:: 5
 
 A circuit or device used in computers whose output is energized only
