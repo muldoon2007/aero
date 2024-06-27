@@ -1,10 +1,10 @@
 # Definition #card
-card-last-interval:: -1
-card-repeats:: 1
-card-ease-factor:: 2.5
-card-next-schedule:: 2024-06-19T07:00:00.000Z
-card-last-reviewed:: 2024-06-19T00:45:41.439Z
-card-last-score:: 1
+card-last-interval:: 2.91
+card-repeats:: 2
+card-ease-factor:: 2.36
+card-next-schedule:: 2024-06-23T11:40:57.034Z
+card-last-reviewed:: 2024-06-20T14:40:57.034Z
+card-last-score:: 3
 
 A transverse wave in a magnetohydrodynamic field in which the driving
 force is the tension introduced by the magnetic field along the lines of
